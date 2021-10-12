@@ -1,0 +1,12 @@
+<resources>
+    <string name="app_name">ComposeMovieApp</string>
+    <string name="movie">MOVIE</string>
+    <string name="tv">TV</string>
+    <string name="my">MY</string>
+    <string name="popular_title">POPULAR</string>
+    <string name="popular_desc">가장 인기 있는 영화</string>
+    <string name="top_rated_title">TOP RATED</string>
+    <string name="top_rated_desc">평점이 가장 높은 영화</string>
+    <string name="upcoming_title">UPCOMING</string>
+    <string name="upcoming_desc">개봉 예정 영화</string>
+</resources>
